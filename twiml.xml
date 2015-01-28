@@ -1,4 +1,5 @@
 <Response>
     <Say>Welcome to Yamsafer at Twilio</Say>
+    <Dial>+972 56-909-9949</Dial>
     <Say>End from Twilio</Say>
 </Response>
