@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Dial callerId="+15551112222">
-        <Number>+15558675309</Number>
+    <Say>Welcome to Yamsafer at Twilio</Say>
+    <Dial callerId="+972569099949">
+        <Number>+972569099949</Number>
     </Dial>
+    <Say>End from Twilio</Say>
 </Response>
