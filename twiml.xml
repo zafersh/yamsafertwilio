@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say>Welcome to Yamsafer at Twilio</Say>
     <Dial callerId="+972569099949">
